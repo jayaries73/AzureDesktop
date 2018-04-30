@@ -1,0 +1,21 @@
+{
+            "BusinessSegmentValue": {
+                "type": "String",
+                "metadata": {
+                    "displayName": "required value for Business Segment tag"
+                }
+            },
+            "ProjectCodeValue": {
+                "type": "String",
+                "metadata": {
+                    "displayName": "required value for Project Code tag"
+                }
+            },
+            "LOBValue": {
+                "type": "String",
+                "metadata": {
+                    "displayName": "required value for LOB tag"
+                }
+            }
+        }
+        

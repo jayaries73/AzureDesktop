@@ -1,0 +1,73 @@
+[
+
+
+       {
+    
+        "policyDefinitions": [
+            {
+                "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1e30110a-5ceb-460c-a204-c1c3969c6d62",
+                "parameters": {
+                    "tagName": {
+                        "value": "BusinessSegment"
+                    },
+                    "tagValue": {
+                        "value": "[parameters('BusinessSegmentValue')]"
+                    }
+                }
+            },
+            {
+                "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
+                "parameters": {
+                    "tagName": {
+                        "value": "BusinessSegment"
+                    },
+                    "tagValue": {
+                        "value": "[parameters('BusinessSegmentValue')]"
+                    }
+                }
+            },
+            {
+                "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1e30110a-5ceb-460c-a204-c1c3969c6d62",
+                "parameters": {
+                    "tagName": {
+                        "value": "ProjectCode"
+                    },
+                    "tagValue": {
+                        "value": "[parameters('ProjectCodeValue')]"
+                    }
+                }
+            },
+            {
+                "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
+                "parameters": {
+                    "tagName": {
+                        "value": "ProjectCode"
+                    },
+                    "tagValue": {
+                        "value": "[parameters('ProjectCodeValue')]"
+                    }
+                }
+            },      
+             {
+                "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1e30110a-5ceb-460c-a204-c1c3969c6d62",
+                "parameters": {
+                    "tagName": {
+                        "value": "LOB"
+                    },
+                    "tagValue": {
+                        "value": "[parameters('LOBValue')]"
+                    }
+                }
+            },
+            {
+                "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
+                "parameters": {
+                    "tagName": {
+                        "value": "LOB"
+                    },
+                    "tagValue": {
+                        "value": "[parameters('LOBValue')]"
+                    }
+                }
+            }
+]
