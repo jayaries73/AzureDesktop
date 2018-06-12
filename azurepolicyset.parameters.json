@@ -19,7 +19,7 @@
 		}
 	},
 
-	"Business Segment": {
+	"BusinessSegment": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for btag"
@@ -61,7 +61,7 @@
 		}
 	},
 	
-		"Description": {
+	"Description": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for tag"
