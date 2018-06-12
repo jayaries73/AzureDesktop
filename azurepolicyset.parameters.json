@@ -1,21 +1,63 @@
 {
-            "BusinessSegmentValue": {
-                "type": "String",
-                "metadata": {
-                    "displayName": "required value for Business Segment tag"
-                }
-            },
-            "ProjectCodeValue": {
-                "type": "String",
-                "metadata": {
-                    "displayName": "required value for Project Code tag"
-                }
-            },
-            "LOBValue": {
-                "type": "String",
-                "metadata": {
-                    "displayName": "required value for LOB tag"
-                }
-            }
-        }
-        
+	"BusinessOwner": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+	"Project Code": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+
+	"Environment": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+
+	"Business Segment": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for btag"
+		}
+	},
+
+	"TechOwner": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+
+	"AppName": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+
+	"Schedule": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+
+	"Expiration": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+
+	"CreatedBy": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	}
+}
