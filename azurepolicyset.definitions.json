@@ -7,7 +7,7 @@
                         "value": "CostCenter"
                     },
                     "tagValue": {
-                        "value": "[parameters('CostCenterValue')]"
+                        "value": "TEST"
                     }
                 }
             },
