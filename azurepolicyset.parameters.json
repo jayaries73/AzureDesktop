@@ -1,5 +1,5 @@
 {
-	"BusinessO": {
+	"Business": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for tag"
