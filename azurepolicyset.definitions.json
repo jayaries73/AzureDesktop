@@ -63,18 +63,6 @@
                 "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
                 "parameters": {
                     "tagName": {
-                        "value": "BusinessOwner"
-                    },
-                    "tagValue": {
-                        "value": "[parameters('BusinessOwnerValue')]"
-                    }
-                }
-            },
-
-            {
-                "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
-                "parameters": {
-                    "tagName": {
                         "value": "CreatedBy"
                     },
                     "tagValue": {
