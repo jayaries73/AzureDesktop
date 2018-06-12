@@ -68,10 +68,10 @@
 		}
 	},
 
-	"CreatedBy": {
+	"LOB": {
 		"type": "String",
 		"metadata": {
-			"LOB": "required value for tag"
+			"displayName": "required value for tag"
 		}
 	}
 }
