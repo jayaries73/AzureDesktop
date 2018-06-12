@@ -68,7 +68,7 @@
 		}
 	},
 
-	"LOB": {
+	"BusinessLine": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for tag"
