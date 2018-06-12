@@ -4,10 +4,10 @@
                 "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
                 "parameters": {
                     "tagName": {
-                        "value": "BusinessSegment"
+                        "value": "BusinessOwner"
                     },
                     "tagValue": {
-                        "value": "[parameters('BusinessSegmentValue')]"
+                        "value": "[parameters('BusinessOwnerValue')]"
                     }
                 }
             },
@@ -30,7 +30,7 @@
                         "value": "AppName"
                     },
                     "tagValue": {
-                        "value": "[parameters('AppName')]"
+                        "value": "[parameters('AppNameValue')]"
                     }
                 }
             },
@@ -42,7 +42,7 @@
                         "value": "Environment"
                     },
                     "tagValue": {
-                        "value": "[parameters('Environment')]"
+                        "value": "[parameters('EnvironmentValue')]"
                     }
                 }
             },
@@ -51,10 +51,10 @@
                 "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
                 "parameters": {
                     "tagName": {
-                        "value": "Tech Owner"
+                        "value": "TechOwner"
                     },
                     "tagValue": {
-                        "value": "[parameters('Tech Owner')]"
+                        "value": "[parameters('TechOwnerValue')]"
                     }
                 }
             },
@@ -63,10 +63,10 @@
                 "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2a0e14a6-b0a6-4fab-991a-187a4f81c498",
                 "parameters": {
                     "tagName": {
-                        "value": "Business Owner"
+                        "value": "BusinessOwner"
                     },
                     "tagValue": {
-                        "value": "[parameters('Business Owner')]"
+                        "value": "[parameters('BusinessOwnerValue')]"
                     }
                 }
             },
@@ -78,7 +78,7 @@
                         "value": "CreatedBy"
                     },
                     "tagValue": {
-                        "value": "[parameters('CreatedBy')]"
+                        "value": "[parameters('CreatedByValue')]"
                     }
                 }
             },
@@ -90,7 +90,7 @@
                         "value": "ExpirationDate"
                     },
                     "tagValue": {
-                        "value": "[parameters('ExpirationDate')]"
+                        "value": "[parameters('ExpirationDateValue')]"
                     }
                 }
             },
@@ -102,7 +102,7 @@
                         "value": "Schedule"
                     },
                     "tagValue": {
-                        "value": "[parameters('Schedule')]"
+                        "value": "[parameters('ScheduleValue')]"
                     }
                 }
             },
@@ -114,7 +114,7 @@
                         "value": "Description"
                     },
                     "tagValue": {
-                        "value": "[parameters('Description')]"
+                        "value": "[parameters('DescriptionValue')]"
                     }
                 }
             },
