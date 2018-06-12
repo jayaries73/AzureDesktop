@@ -1,5 +1,5 @@
 {
-	"Business Owner": {
+	"BusinessOwner": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for tag"
@@ -27,13 +27,6 @@
 	},
 
 	"TechOwner": {
-		"type": "String",
-		"metadata": {
-			"displayName": "required value for tag"
-		}
-	},
-
-	"BusinessOwner": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for tag"
