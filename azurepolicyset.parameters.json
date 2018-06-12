@@ -5,28 +5,7 @@
 			"displayName": "required value for tag"
 		}
 	},
-	"Project Code": {
-		"type": "String",
-		"metadata": {
-			"displayName": "required value for tag"
-		}
-	},
-
-	"Environment": {
-		"type": "String",
-		"metadata": {
-			"displayName": "required value for tag"
-		}
-	},
-
-	"BusinessSegment": {
-		"type": "String",
-		"metadata": {
-			"displayName": "required value for btag"
-		}
-	},
-
-	"Tech Owner": {
+	"ProjectCode": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for tag"
@@ -40,7 +19,28 @@
 		}
 	},
 
-	"Schedule": {
+	"Environment": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for btag"
+		}
+	},
+
+	"TechOwner": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+
+	"BusinessOwner": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+
+	"CreatedBy": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for tag"
@@ -54,7 +54,7 @@
 		}
 	},
 	
-	"LOB": {
+	"Schedule": {
 		"type": "String",
 		"metadata": {
 			"displayName": "required value for tag"
@@ -69,7 +69,7 @@
 	},
 
 	"CreatedBy": {
-		"type": "String",
+		"type": "LOB",
 		"metadata": {
 			"displayName": "required value for tag"
 		}
