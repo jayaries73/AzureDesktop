@@ -53,6 +53,20 @@
 			"displayName": "required value for tag"
 		}
 	},
+	
+	"LOB": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
+	
+		"Description": {
+		"type": "String",
+		"metadata": {
+			"displayName": "required value for tag"
+		}
+	},
 
 	"CreatedBy": {
 		"type": "String",
